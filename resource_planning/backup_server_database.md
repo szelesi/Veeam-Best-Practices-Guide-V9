@@ -33,7 +33,7 @@ Express 2014.
 It is possible to leverage a remote SQL Server as staging server during restores
 in Veeam Explorer products. There are no specific edition requirements for neither SQL Express,  Standard or Enterprise instance of SQL Server installed locally on the backup server. It is still recommended to run the SQL Server locally (when resource and planning allow) on the backup server for lowest latency and highest performance.
 
-There may still be scenarios where a remote SQL Server is the better choice:
+      There may still be scenarios where a remote SQL Server is the better choice:
 
 -   SQL Clustering and AlwaysOn Availability Group on external SQL
     Servers can be used for configuration database high availability
