@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to V10_test_Sphinx's documentation!
+Welcome to Veeam Backup & Replication Best Practise V9
 ===========================================
 
 .. toctree::
    :maxdepth: 3
-   
+
    Veeam Backup & Replication Best Practices <README.md>
    Introduction <introduction/readme.md>
    Contacting Veeam Software<introduction/contacting_veeam_software>
