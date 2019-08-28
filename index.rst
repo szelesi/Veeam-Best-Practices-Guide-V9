@@ -1,22 +1,22 @@
-.. V10_test_Sphinx documentation master file, created by
-   sphinx-quickstart on Wed Aug 28 12:58:06 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to Veeam Backup & Replication Best Practise V9
 ===========================================
+
+
+
+Veeam Best Practice V9
+======================
 
 .. toctree::
    :maxdepth: 3
 
    Veeam Backup & Replication Best Practices <README.md>
-   Introduction <introduction/readme.md>
+      Introduction <introduction/readme.md>
    Contacting Veeam Software<introduction/contacting_veeam_software>
-   Resource Planning <resource_planning/resource_planning>
+      Resource Planning <resource_planning/resource_planning>
    DNS Resolution <resource_planning/dns_resolution>
-   Veeam Backup Server <resource_planning/backup_server_introduction>
+       Veeam Backup Server <resource_planning/backup_server_introduction>
    Deployment Method <resource_planning/backup_server_deployment_method>
-   Backup Server Placement <resource_planning/backup_server_placement>
+       Backup Server Placement <resource_planning/backup_server_placement>
    Sizing and System Requirements <resource_planning/backup_server_sizing>
    Veeam Backup & Replication Database <resource_planning/backup_server_database>
    Protecting Veeam Backup & Replication Configuration <resource_planning/protecting_veeam_backup_and_replication_config>
@@ -55,6 +55,14 @@ Welcome to Veeam Backup & Replication Best Practise V9
    Replication Job <job_configuration/replication_job>
    Application-Aware Image Processing <job_configuration/application_aware_image_processing>
    Application specific <job_configuration/application_aware_image_processing_apps>
+   
+   
+   
+Appendices
+==========   
+   .. toctree::
+   :maxdepth: 3
+      
    POC Guide <poc_guide/README>
    Assessment <poc_guide/assessment>
    Accelerated Evaluation <poc_guide/accelerated_evaluation>
