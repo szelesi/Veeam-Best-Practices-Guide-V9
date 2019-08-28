@@ -7,6 +7,7 @@ Veeam Best Practice V9
 ======================
 
 .. toctree::
+   :titlesonly:
    :maxdepth: 3
 
    Veeam Backup & Replication Best Practices <README.md>
