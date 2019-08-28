@@ -60,7 +60,7 @@ Veeam Best Practice V9
    
 Appendices
 ==========   
-   .. toctree::
+.. toctree::
    :maxdepth: 3
       
    POC Guide <poc_guide/README>
